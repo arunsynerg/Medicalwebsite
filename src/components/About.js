@@ -26,7 +26,7 @@ export default function About(){
         <div className='about'>
             <div className='about_top'>
                 <h1>About Med+</h1>
-                <p>Welcome to Vasan medical shop, your trusted source for quality healthcare and well-being. As a newly established medical shop, we're thrilled to be part of your community, and we're dedicated to providing you with the best in pharmaceuticals, healthcare products, and expert advice.</p>
+                <p>Welcome to medical shop, your trusted source for quality healthcare and well-being. As a newly established medical shop, we're thrilled to be part of your community, and we're dedicated to providing you with the best in pharmaceuticals, healthcare products, and expert advice.</p>
                 <h1>Our Story</h1>
                 <p>Our journey began with a vision to create a healthcare destination that prioritizes your health and convenience. Our founders, [Founder Names], are experienced pharmacists with a deep commitment to serving the community's healthcare needs.</p>
             </div>
